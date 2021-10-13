@@ -92,9 +92,9 @@ namespace Book_Server
 
 
         //{"Title": "UML", "Author": "Larman", "PageNo": 654, "ISBN13": "9780133594140"}
-        //{"Title": "Twilight", "Author": "Stephenie Meyer", "numberOfPages": 501, "ISBN13": "9780316015844"}
-        //{"Title": "To Kill a Mockingbird", "Author": "Harper Lee", "numberOfPages": 324, "ISBN13": "9780446310789"}
-        //{"Title": "Dune", "Author": "Frank Herbert", "numberOfPages": 688, "ISBN13": "9780593099322"}
+        //{"Title": "Twilight", "Author": "Stephenie Meyer", "PageNo": 501, "ISBN13": "9780316015844"}
+        //{"Title": "To Kill a Mockingbird", "Author": "Harper Lee", "PageNo": 324, "ISBN13": "9780446310789"}
+        //{"Title": "Dune", "Author": "Frank Herbert", "PageNo": 688, "ISBN13": "9780593099322"}
 
     }
 }
